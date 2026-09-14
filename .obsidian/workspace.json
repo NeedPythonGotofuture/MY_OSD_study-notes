@@ -153,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "相关操作/读取ad9288采集数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -224,8 +223,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6e96b54e4bf2e146",
+  "active": "e2cfa065fca531c1",
   "lastOpenFiles": [
+    "相关操作/读取ad9288采集数据.md",
+    "Excalidraw/Drawing 2026-09-14 18.54.13.excalidraw.md",
+    "Excalidraw",
     "OSD代码开发/相关图片/Pasted Image 20260907111422_153.png",
     "未命名.md",
     "OSD代码开发/相关操作/AD9288驱动流程.md",
@@ -241,7 +243,6 @@
     "OSD代码开发/相关图片/Pasted Image 20260914155436_411.png",
     "OSD代码开发/相关图片/Pasted Image 20260914140117_184.png",
     "Excalidraw/Drawing 2026-09-14 11.32.09.excalidraw.md",
-    "Excalidraw",
     "OSD代码开发/相关图片",
     "OSD代码开发/相关图片/Pasted Image 20260914110947_237.png",
     "OSD代码开发/相关图片/Pasted Image 20260914110900_503.png",
@@ -264,7 +265,6 @@
     "simulink开发飞控算法/mindmaps/toolbox-ecosystem.md",
     "simulink开发飞控算法/mindmaps/learning-roadmap.md",
     "simulink开发飞控算法/mindmaps/dynamics-modeling-tree.md",
-    "simulink开发飞控算法/mindmaps/control-algorithms-map.md",
     "simulink开发飞控算法/mindmaps",
     "simulink开发飞控算法/docs/11-PX4飞控系统对接",
     "simulink开发飞控算法/docs/10-论文导读与前沿综述",
