@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "f40c73a6b3469728",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6779235d50743af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d50ccd46addab45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "OSD代码开发/相关操作/AD9288驱动流程.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "6e96b54e4bf2e146",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "相关操作/读取ad9288采集数据.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "读取ad9288采集数据"
+            }
+          },
+          {
+            "id": "d63ad9ec5b4bd6cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "OSD代码开发/FPGA端开发.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "a7350d860a2a707d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "OSD代码开发/相关操作/读取ad9288采集数据.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c601306bf4c6ca8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "928c886debaa88fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2cfa065fca531c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cd495df952ae640d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "df61ba79ea5e509e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1b48d318739a05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fdcb9837393553f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b92317f682436770",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSD代码开发/读取ad9288采集数据.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "757c6eaa1eae7f5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "36c2f103f4e9d896",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ac341a11a579edb0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "133f98035ebf1a95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSD代码开发/读取ad9288采集数据.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "e2cfa065fca531c1",
+  "lastOpenFiles": [
+    "相关操作/读取ad9288采集数据.md",
+    "Excalidraw/Drawing 2026-09-14 18.54.13.excalidraw.md",
+    "Excalidraw",
+    "OSD代码开发/相关图片/Pasted Image 20260907111422_153.png",
+    "未命名.md",
+    "OSD代码开发/相关操作/AD9288驱动流程.md",
+    "未命名",
+    "OSD代码开发/FPGA端开发.md",
+    "OSD代码开发/相关操作/读取ad9288采集数据.md",
+    "2026-09-14.md",
+    "simulink开发飞控算法/docs/04-控制系统设计/02-级联PID姿态控制.md",
+    "simulink开发飞控算法/docs/04-控制系统设计/01-PID控制基础与实现.md",
+    "simulink开发飞控算法/docs/03-Simulink建模实战/04-Simscape多体动力学.md",
+    "OSD代码开发/相关操作/W9825G6K写入读取.md",
+    "OSD代码开发/相关操作/FPGA生成pll采样时钟.md",
+    "OSD代码开发/相关图片/Pasted Image 20260914155436_411.png",
+    "OSD代码开发/相关图片/Pasted Image 20260914140117_184.png",
+    "Excalidraw/Drawing 2026-09-14 11.32.09.excalidraw.md",
+    "OSD代码开发/相关图片",
+    "OSD代码开发/相关图片/Pasted Image 20260914110947_237.png",
+    "OSD代码开发/相关图片/Pasted Image 20260914110900_503.png",
+    "OSD代码开发/相关图片/Pasted Image 20260914085342_648.png",
+    "OSD代码开发/相关图片/Pasted Image 20260914085321_202.png",
+    "OSD代码开发/相关图片/Pasted Image 20260907163715_766.png",
+    "OSD代码开发/相关图片/Pasted Image 20260907163544_895.png",
+    "OSD代码开发/相关操作",
+    "simulink开发飞控算法/docs/05-状态估计与传感器/02-扩展卡尔曼滤波EKF.md",
+    "simulink开发飞控算法/docs/06-高级仿真专题/05-eVTOL与城市空中交通.md",
+    "Excalidraw/Drawing 2026-09-02 10.56.39.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-02 10.56.13.excalidraw.md",
+    "小飞控软件/MC_MODE.excalidraw.md",
+    "小飞控软件/FC_VTOL.excalidraw.md",
+    "OSD代码开发",
+    "simulink开发飞控算法/docs/02-动力学建模核心/04-旋翼气动力与力矩模型.md",
+    "simulink开发飞控算法/docs/02-动力学建模核心/01-刚体六自由度动力学.md",
+    "simulink开发飞控算法/docs/03-Simulink建模实战/02-搭建第一个6DOF模型.md",
+    "simulink开发飞控算法/docs/03-Simulink建模实战/03-子系统封装与模块化.md",
+    "simulink开发飞控算法/mindmaps/toolbox-ecosystem.md",
+    "simulink开发飞控算法/mindmaps/learning-roadmap.md",
+    "simulink开发飞控算法/mindmaps/dynamics-modeling-tree.md",
+    "simulink开发飞控算法/mindmaps",
+    "simulink开发飞控算法/docs/11-PX4飞控系统对接",
+    "simulink开发飞控算法/docs/10-论文导读与前沿综述",
+    "simulink开发飞控算法/docs/09-开源项目精读",
+    "simulink开发飞控算法/docs/08-仿真与实飞衔接",
+    "未命名.canvas"
+  ]
+}
